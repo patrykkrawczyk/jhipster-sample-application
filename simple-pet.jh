@@ -1,0 +1,9 @@
+entity Pet {
+	name String
+}
+
+// Use Data Transfert Objects (DTO)
+dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl
