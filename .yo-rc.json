@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NjI2OGU4NjM5NTlmZGI1OTQ2NmMzZTE5YzU2MWYzZjlmYTE1ZDg5Njc2MGQ0NjliN2Q2OTEzMjM1ZTVmZWJjZTBkNzgyNzEzMWFjNTFhYTY1M2YxMTRhYjAwNmY5ODI4NjhhMTBkZDdjN2E3Yjg5NTllMzBmZGUzZGFjOWE3ZTE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "patrykkrawczyk",
+  "repository-name": "jhipster-sample-application"
+}
